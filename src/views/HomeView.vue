@@ -9,6 +9,7 @@
       
       <h1>Acil Sağlık Yardımı ve Acil İhbarlarınız için<br> Lütfen 112'yi arayınız.</h1>
       <h2><strong>Hasta Girişi</strong></h2>
+      <h2>Yeni Hasta Kaydı</h2>
 
       <div class="register-container">
         <div class="register">
